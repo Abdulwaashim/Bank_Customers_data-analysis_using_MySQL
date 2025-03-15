@@ -7,15 +7,20 @@ This project involves analyzing bank customer data using MySQL. The dataset cons
 ## 📊 Dataset Information
 ### 1. **Customers Table**
 The `customers` table contains information about bank customers, including their ID, name, account details, IFSC code, PAN number, email, address, and gender.
+![Customer Table](https://github.com/Abdulwaashim/Bank_Customers_data-analysis_using_MySQL/blob/main/imgs/Customers_table.png)
+
 
 ### 2. **Loan Details Table**
 The `loan_details` table stores information about customer loans, including loan type, amount, interest rate, loan term, EMI, loan status, and loan start and end dates.
+![Loan Details Table](https://github.com/Abdulwaashim/Bank_Customers_data-analysis_using_MySQL/blob/main/imgs/loan_details_table.png)
 
 ### 3. **Fixed Deposit Table**
 The `fixed_deposit` table stores information about customer fixed deposits, including fixed_deposit amount, fd_period, fd_interest, and fd start and end dates.
+![Fixed Deposit Table](https://github.com/Abdulwaashim/Bank_Customers_data-analysis_using_MySQL/blob/main/imgs/fixed_deposit_table.png)
 
 ### 4. ** Transactions Table**
 The `Transactions` table stores information about customer Transactions, including Transaction_type, Transaction amount, Transaction to, Transaction from, Transaction date & time, Transaction_balance.
+![Transactions Table](https://github.com/Abdulwaashim/Bank_Customers_data-analysis_using_MySQL/blob/main/imgs/transactions_table.png)
 
 ## 🔍 Queries and Analysis Performed
 ### 1. **Retrieve All Customers**
